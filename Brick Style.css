@@ -1,0 +1,13 @@
+/* the *  selects everything / universal selector? */
+/*also called a CSS reset so it's consistent across all broswers*/
+* {
+  padding: 0;
+  margin: 0;
+}
+
+/*to see the canvas*/
+#myCanvas {
+  background: #eee;
+  display: block;
+  margin: 0 auto;
+}
