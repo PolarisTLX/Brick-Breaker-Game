@@ -125,7 +125,7 @@ function collisionDetect() {
 
           //win condition
           if ((score / 100) == brickRowCount*brickColumnCount ){
-            alert("You Win! Earth did not explode. Good Job!");
+            alert("You Win!   Earth did not explode.   Good Job!");
             //restart game
             document.location.reload();
           }
